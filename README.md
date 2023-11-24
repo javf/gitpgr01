@@ -1,2 +1,1 @@
-# gitpgr01fork
-El readme del fork
+El readme
